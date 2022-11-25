@@ -1,4 +1,4 @@
-## Oi eu sou a Euzebio Batista, Curso tecnologo em telemática, e apaixonada por programação!
+## Olá me chamo Euzebio Batista, Curso tecnologo em telemática no IFPB, e também tenho um grande interesse em conhecer tudo sobre programação!
  
  <!-- Barra superior e inferior --> 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
