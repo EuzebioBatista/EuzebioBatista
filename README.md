@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--> 
 </div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Euzebio+Batista;I'm+24+years+old;I'm+from+Brazil;I'm+studying+Telemática(higher);Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Euzebio+Batista;I'm+24+years+old;I'm+from+Brazil;I'm+studying+Telemática(higher);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
