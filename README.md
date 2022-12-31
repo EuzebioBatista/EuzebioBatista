@@ -4,28 +4,23 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
  
  ### Abaixo você encontra mais informações sobre meus repositórios e contribuições aqui no Github.
- 
-<div style="display: inline_block"><br>
-  <!--<img align="center" alt="Rafa-Python" height="30" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Rafa-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--> 
-</div>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Euzebio+Batista;I'm+24+years+old;I'm+from+Brazil;I'm+studying+Telemática(higher);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
-<div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuzebioBatista&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Euzebio Batista github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> 
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuzebioBatista&show_icons=true&theme=transparent" />
+ 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista&theme=transparent&layout=compact](https://github.com/anuraghazra/github-readme-stats)" /> 
 </div> 
  
  <!-- gráfico das contribuições --> 
-<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EuzebioBatista&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EuzebioBatista&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- badges, com trofeu --> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EuzebioBatista&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EuzebioBatista&theme=onedark&column=3" />
 </p> 
 
  <!-- redes sociais e profissional -->
